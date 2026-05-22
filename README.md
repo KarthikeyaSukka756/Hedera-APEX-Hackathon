@@ -163,3 +163,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 *This project was developed for the Hedera Ecosystem to showcase the power of DLT in solving real-world privacy challenges in the healthcare sector.*
+*Updated project documentation*
